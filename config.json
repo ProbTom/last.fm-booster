@@ -1,0 +1,10 @@
+{
+  "lfm": {
+    "api_key": "YOUR_API_KEY",
+    "secret": "YOUR_API_SECRET"
+  },
+  "sessionCreds": {
+    "username": "YOUR_USERNAME",
+    "key": "YOUR_SESSION_KEY"
+  }
+}
