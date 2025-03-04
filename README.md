@@ -139,6 +139,12 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
 
+---
+
+## Contact
+
+- [Discord](https://discord.com/users/229396464848076800)
+- Telegram [@ProbTom](https://t.me/ProbTom)
 
 ---
 
